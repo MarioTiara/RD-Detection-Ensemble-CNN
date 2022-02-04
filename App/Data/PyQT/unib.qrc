@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="kampus">
+    <file>UNIB.png</file>
+  </qresource>
+</RCC>
