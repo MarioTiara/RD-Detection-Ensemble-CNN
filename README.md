@@ -15,9 +15,14 @@ Detect the stage of diabetic retinopathy in human retina through fundus images. 
   <img src="https://user-images.githubusercontent.com/43440326/152647701-89f01066-d8a8-465b-af10-31c4aeab0ce6.png" alt="Sublime's custom image"/>
   <h3 style="font-size:10vw">Detail Performance of Ensemble Model Using Confusion Matrix</h3>
   <img src="https://user-images.githubusercontent.com/43440326/152647787-d17d3193-db04-4d86-ba56-5d8cc0c6ddee.png" alt="Sublime's custom image"/>
-   <img src="https://user-images.githubusercontent.com/43440326/152647844-bc83447a-def2-4fcb-8680-ac69ddd08df0.png" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/43440326/152647844-bc83447a-def2-4fcb-8680-ac69ddd08df0.png" alt="Sublime's custom image"/>
 </p>
 
 ### Demo
 <img src="https://user-images.githubusercontent.com/43440326/152631586-f3b13b5b-9ae0-4fc5-b201-b4b94dbffa8e.gif" alt="Sublime's custom image"/>
+
+<h3>
+  The Research paper "NON-PROLIFERATIF RETINOPATHY CLASSIFICATION USING ENSEMBLE CONVOLUTIONAL NEURAL NETWORK" is publised in Pseudoce jurnal Univerity of Bengkulu <a href="https://ejournal.unib.ac.id/index.php/pseudocode/article/download/13619/7272">paper link</a>
+</h3>
+
 
