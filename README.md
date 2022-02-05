@@ -20,9 +20,10 @@ Detect the stage of diabetic retinopathy in human retina through fundus images. 
 
 ### Demo
 <img src="https://user-images.githubusercontent.com/43440326/152631586-f3b13b5b-9ae0-4fc5-b201-b4b94dbffa8e.gif" alt="Sublime's custom image"/>
-
+<p align="justify">
 <h3>
   The Research paper "NON-PROLIFERATIF RETINOPATHY CLASSIFICATION USING ENSEMBLE CONVOLUTIONAL NEURAL NETWORK" is publised in Pseudoce jurnal Univerity of Bengkulu <a href="https://ejournal.unib.ac.id/index.php/pseudocode/article/download/13619/7272">paper link</a>
 </h3>
+</p>
 
 
