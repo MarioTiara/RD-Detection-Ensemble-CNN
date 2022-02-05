@@ -1,1 +1,1 @@
-# MarioTiara-RD-Detection-Ensemble-CNN
+# Rethynopathy Diabetic stages classification Using Ensemble Convolutional Neural Network
